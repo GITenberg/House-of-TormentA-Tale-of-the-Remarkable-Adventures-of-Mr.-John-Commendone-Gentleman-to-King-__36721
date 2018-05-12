@@ -1,0 +1,35 @@
+_repo: House-of-TormentA-Tale-of-the-Remarkable-Adventures-of-Mr.-John-Commendone-Gentleman-to-King-__36721
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thorne, Guy
+    alias: Gull, Cyril Arthur Edward Ranger
+    birthdate: 1875
+    deathdate: 1923
+    gutenberg_agent_id: '38288'
+    url: http://www.gutenberg.org/2009/agents/38288
+    wikipedia: http://www.gutenberg.org/ebooks/author/39349
+description: ''
+gutenberg_issued: '2011-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36721'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Spaniards -- England -- Fiction'
+- !lcsh 'Great Britain -- History -- Mary I, 1553-1558 -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Great Britain -- Court and courtiers -- Fiction'
+- !lcsh 'Inquisition -- Spain -- Fiction'
+title: 'House of Torment
+
+  A Tale of the Remarkable Adventures of Mr. John Commendone, Gentleman to King Phillip
+  II of Spain at the English Court'
+url: http://www.gutenberg.org/ebooks/36721
